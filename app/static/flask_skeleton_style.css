@@ -1,0 +1,11 @@
+/* flask_skeleton_style.css */
+/* Lead (and only) Developer: Bobby Joe 3.0 */
+
+#message {
+	font-size: 70px;
+	font-style: italic;
+	font-family: helvetica;
+	position: absolute;
+	top: 38%;
+	left: 30%;
+}
